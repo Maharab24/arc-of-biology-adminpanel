@@ -1,0 +1,68 @@
+[
+  {
+    "id": "hsc",
+    "title": "Biology For HSC",
+    "description": "Complete syllabus coverage, board exam preparation, practical lab sessions, and chapter-wise mock tests",
+    "duration": "12 Months",
+    "level": "Intermediate",
+    "students": "500+ Enrolled",
+    "color": "from-emerald-500 to-teal-600",
+    "icon": "🎓",
+    "path": "/courses/hsc"
+  },
+  {
+    "id": "varsity",
+    "title": "Biology For Varsity Admission",
+    "description": "Specialized coaching for medical college admission tests, entrance exam patterns, and competitive preparation",
+    "duration": "8 Months",
+    "level": "Advanced",
+    "students": "300+ Enrolled",
+    "color": "from-cyan-400 to-blue-500",
+    "icon": "🏛️",
+    "path": "/courses/varsity"
+  },
+  {
+    "id": "crash",
+    "title": "Biology Crash Course",
+    "description": "Intensive revision program, quick concept clarity, last-minute preparation, and exam strategies",
+    "duration": "2 Months",
+    "level": "All Levels",
+    "students": "700+ Enrolled",
+    "color": "from-amber-400 to-orange-500",
+    "icon": "⚡",
+    "path": "/courses/crash"
+  },
+  {
+    "id": "medical",
+    "title": "NEET & Medical Entrance",
+    "description": "Comprehensive NEET preparation, previous year question analysis, medical concept building, and test series",
+    "duration": "18 Months",
+    "level": "Expert",
+    "students": "250+ Enrolled",
+    "color": "from-purple-500 to-indigo-600",
+    "icon": "⚕️",
+    "path": "/courses/medical"
+  },
+  {
+    "id": "all-varsity",
+    "title": "Biology For All Universities",
+    "description": "University-level biology courses, degree program support, semester preparation, and advanced topics",
+    "duration": "6 Months",
+    "level": "University",
+    "students": "400+ Enrolled",
+    "color": "from-green-400 to-emerald-500",
+    "icon": "📚",
+    "path": "/courses/all-varsity"
+  },
+  {
+    "id": "olympiad",
+    "title": "Biology Olympiad",
+    "description": "International Biology Olympiad preparation, advanced problem solving, research projects, and practical skills",
+    "duration": "10 Months",
+    "level": "Champion",
+    "students": "150+ Enrolled",
+    "color": "from-rose-500 to-pink-600",
+    "icon": "🏅",
+    "path": "/courses/olympiad"
+  }
+]
