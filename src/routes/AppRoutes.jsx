@@ -7,6 +7,8 @@ import ProtectedRoute from "../components/ProtectedRoute";
 import AdminDashboard from "../pages/AdminDashboard";
 import AllCourse from "../pages/AllCourse";
 import AddCourse from "../pages/AddCourse";
+import AllExam from "../pages/AllExam";
+import CreateExam from "../pages/CreateExam";
 
 const router = createBrowserRouter([
   {
@@ -27,7 +29,9 @@ const router = createBrowserRouter([
     children: [
       { path: "/dashboard", element: <AdminDashboard /> },
       { path: "/dashboard/courses", element: <AllCourse /> },
-      { path: "/dashboard/courses/add", element: <AddCourse /> }
+      { path: "/dashboard/courses/add", element: <AddCourse /> },
+      { path: "/dashboard/exams", element: <AllExam /> },
+      { path: "/dashboard/exams/create", element: <CreateExam /> }
     ],
   },
 ]);
