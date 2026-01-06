@@ -5,6 +5,7 @@ import Home from "../pages/Home";
 import AdminLogin from "../pages/AdminLogin";
 import ProtectedRoute from "../components/ProtectedRoute";
 import AdminDashboard from "../pages/AdminDashboard";
+import AllCourse from "../pages/AllCourse";
 
 const router = createBrowserRouter([
   {
@@ -24,6 +25,7 @@ const router = createBrowserRouter([
     ),
     children: [
       { path: "/dashboard", element: <AdminDashboard /> },
+      { path: "/dashboard/courses", element: <AllCourse /> },
     ],
   },
 ]);
